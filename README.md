@@ -6,7 +6,7 @@
 
 <h2>📘 Learning Notes:</h2>
 - <b>Cybersecurity concepts, labs, and tools I'm studying</b>
-  - (https://github.com/marceloburton/later)
+  - (https://github.com/marceloburton/cybersecurity-notes)
   
 <h2> 🤳 Connect with me:</h2>
 
