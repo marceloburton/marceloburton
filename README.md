@@ -4,6 +4,10 @@
 
 <h2>📄 Certifications:</h2>
 
+<h2>📘 Learning Notes:</h2>
+- <b>Cybersecurity concepts, labs, and tools I'm studying</b>
+  - (https://github.com/marceloburton/later)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MarceloBurton | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
